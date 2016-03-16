@@ -1,0 +1,20 @@
+title screen
+	0 - create
+		edit player
+		edit enemy
+		change game design
+		edit controls
+	1 - play
+
+"tech"
+	image editor
+		recommended bits
+	sound editor
+	level editor
+	game
+		force scrolling
+		damage enemies
+		damage player
+		collect points
+		level end
+		shooting
